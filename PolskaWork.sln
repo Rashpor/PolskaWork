@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolskaWork", "PolskaWork\Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolskaTest1", "PolskaTest1\PolskaTest1.csproj", "{B51EB99F-E277-4DBA-9319-57783B1D6089}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polska", "..\Polska\Polska\Polska.csproj", "{5C316208-25DE-4E01-8368-FAE00F4140B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B51EB99F-E277-4DBA-9319-57783B1D6089}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B51EB99F-E277-4DBA-9319-57783B1D6089}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B51EB99F-E277-4DBA-9319-57783B1D6089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C316208-25DE-4E01-8368-FAE00F4140B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C316208-25DE-4E01-8368-FAE00F4140B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C316208-25DE-4E01-8368-FAE00F4140B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C316208-25DE-4E01-8368-FAE00F4140B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
